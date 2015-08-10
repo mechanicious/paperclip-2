@@ -1,0 +1,1 @@
+![](https://github.com/mechanicious/paperclip-2/blob/master/logo-paperclip-2.jpg)
